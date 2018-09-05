@@ -1,0 +1,2 @@
+# netscaler_monitoring
+prometheus
